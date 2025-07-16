@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+        <style>
+          body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+          }
+      
+          form {
+            background-color: #ffffff;
+            max-width: 700px;
+            margin: 40px auto;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+          }
+      
+          h2 {
+            text-align: center;
+            color: #444;
+            margin-bottom: 25px;
+          }
+      
+          label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+            color: #333;
+          }
+      
+          input[type="text"],
+          select,
+          textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+            font-size: 15px;
+          }
+      
+          input[type="radio"],
+          input[type="checkbox"] {
+            margin-right: 8px;
+          }
+      
+          textarea {
+            resize: vertical;
+          }
+      
+          input[type="submit"] {
+            background-color: #333;
+            color: #fff;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: background-color 0.3s;
+            width: 100%;
+          }
+      
+          input[type="submit"]:hover {
+            background-color: #555;
+          }
+      
+          fieldset {
+            border: none;
+            padding: 0;
+          }
+          .group-options {
+            margin-bottom: 15px;
+          }
+      
+          .group-options label {
+            font-weight: normal;
+            display: inline-block;
+            margin-right: 15px;
+            color: #444;
+          }
+        </style>
+</head>
+    <body>
+        <form action="">
+            <fieldset>
+                <h2>🎧 Suas Preferências Musicais</h2>
+            <label>Nome</label>
+            <input type="text" name="nome"><br><br/>
+        
+            <label>Idade</label>
+            <select name="Idade" id="">
+                <option>16 a 18</option>
+                <option>18 a 25</option>
+                <option>25 a 35</option>
+                <option>35 mais</option>
+            </select><br><br/>
+        
+            <label>Naturalidade:</label>
+            <input type="text" Naturalidade="Naturalidade" maxlength="15"><br><br/>
+        
+            <label>Nacionalidade:</label>
+            <input type="text" Nacionalidade="Nacionalidade" maxlength="15"><br><br/>
+        
+            <label>Gosta de Música?</label>
+            <br>
+            <input type="radio" name="gosta" value="yes">
+            sim
+            <input type="radio" name="gosta" value="no">
+            não
+            <input type="radio" name="gosta" value="don't know">
+            não sei
+            <br><br/>
+        
+            <label>Plataforma de streaming musical que você usa:</label><br>
+            <input type="radio" name="plataforma" value="Spotify">
+            Spotify
+            <input type="radio" name="plataforma" value="Youtube Music">
+            Youtube Music
+            <input type="radio" name="plataforma" value="Apple Music">
+            Apple Music
+            <input type="radio" name="plataforma" value="Amazon Music">
+            Amazon Music
+            <input type="radio" name="plataforma" value="Outros">
+            Outros
+            <br><br/>
+    
+            <label>Em caso de "Outros", diga aqui qual que você usa:</label>
+            <input type="text" maxlength="20">
+            <br></br>
+    
+            <label>Gênero no qual você mais gosta:</label><br>
+            <input type="checkbox" name="avaliação" value="Funk">
+            Funk
+            <input type="checkbox" name="avaliação" value="Rock"> 
+            Rock
+            <input type="checkbox" name="avaliação" value="MPB">
+            MPB
+            <input type="checkbox" name="avaliação" value="Forró">
+            Forró
+            <input type="checkbox" name="avaliação" value="Samba">
+            Samba
+            <input type="checkbox" name="avaliação" value="Bossa Nova">
+            Bossa Nova
+            <input type="checkbox" name="avaliação" value="Pagode">
+            Pagode
+            <input type="checkbox" name="avaliação" value="Sertanejo">
+            Sertanejo
+            <input type="checkbox" name="avaliação" value="RAP">
+            RAP
+            <input type="checkbox" name="avaliação" value="Outros">
+            Outros
+            <br><br/>
+        
+            <label>Artista ou Banda preferidos:</label><br>
+            <textarea name="" id="" cols="30" rows="10">escreva aqui</textarea><br>
+        
+            <input type="submit" name="Enviar" value="Enviar">
+        
+            </form>
+    
+</body>
+</html>
