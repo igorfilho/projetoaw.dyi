@@ -1,0 +1,95 @@
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+    width: 100rem;
+    height: 100rem;
+    position: fixed;
+    top: 0px;
+}
+
+form {
+  background-color: #c1d9cd;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.quadrado1{
+    z-index: 1;
+    top: 50px;
+    left: 50px;
+    position: relative;
+}
+
+h1 {
+  text-align: center;
+  color: #444;
+  margin-bottom: 25px;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+  color: #333;
+}
+
+input[type="text"],
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 15px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 8px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+input[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.3s;
+  width: 100%;
+}
+
+input[type="submit"]:hover {
+  background-color: #555;
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+}
+.group-options {
+  margin-bottom: 15px;
+}
+
+.group-options label {
+  font-weight: normal;
+  display: inline-block;
+  margin-right: 15px;
+  color: #444;
+}
