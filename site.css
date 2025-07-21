@@ -5,17 +5,50 @@
 body{
     background-color: #c1d9cd;
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 header{
-    background-color: aquamarine;
+    background-color: rgb(0, 153, 255);
 }
 
 li{
     font-size: 2rem;
     display: inline-block;
-    padding: 50px 50px;
+    padding: 50px 60px;
     transition: transform 0.3s ease;
 }
 li:hover {
     transform: scale(1.2);
 }
+
+h2{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top:20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+.texto2{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+}
+body {
+    background-image: url(https://pt.quizur.com/_image?href=https://img.quizur.com/f/img5f63679725bd08.21912925.jpg?lastEdited=1600350114&w=1024&h=1024&f=webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
