@@ -3,13 +3,13 @@
     padding: 0;    
 }
 body{
-    background-color: #c1d9cd;
+    background-color:#f6f6e2;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 header{
-    background-color: rgb(0, 153, 255);
+    background-color:#e2d5c1;
 }
 
 li{
@@ -28,6 +28,7 @@ h2{
     padding-right: 100px;
     padding-top: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
 }
 h3{
     text-align: center;
@@ -35,7 +36,7 @@ h3{
     padding-right: 100px;
     padding-top:20px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 50px;
+    font-size: 20px;
 }
 .texto2{
     text-align: center;
@@ -43,12 +44,5 @@ h3{
     padding-right: 100px;
     padding-top: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size:30px;
+    font-size:20px;
 }
-body {
-    background-image: url(https://pt.quizur.com/_image?href=https://img.quizur.com/f/img5f63679725bd08.21912925.jpg?lastEdited=1600350114&w=1024&h=1024&f=webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-  }
