@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: linear-gradient(135deg, #FFD700, #FFC300, #FFB700, #FFA500);
+    background-size: 400% 400%;
+}
+
+h1{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 60px;
+}
+
+.texto1{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right: 800px;
+    font-size: 40px;
+    font-family: 'Georgia', serif;
+}
+
+
+img{
+    float: right;
+    margin-right: 100px;
+    position: relative;
+    top: -280px;
+    height: 380px;
+}
+
+h3{
+    font-size: 80px;
+    text-align: center;
+    padding-left: 550px;
+    margin-top: 120px;    
+}
+
+.texto2{
+    text-align: right;
+    font-size: 40px;
+    padding-left: 700px;
+    padding-right: 30px;
+    font-family: Arial, sans-serif;
+}
+
+.imagem2{
+    float: left;
+    margin-left: 40px;
+    margin-top: -100px;
+    height: 250px;
+}
+
+.imagem3{
+    float: left;
+    height: 250px;
+    margin-top: 200px;
+    margin-right: 740px;
+    margin-left: -140px;
+}
+
+.texto3{
+    text-align: justify;
+    font-size: 30px;
+    margin-right: 550px;
+    margin-top:-30px;
+    font-family: Arial, sans-serif;
+}
+ .imagem4{
+    float: left;
+    height: 250px;
+    margin-left: 30px;
+ }
+
+ .imagem5{
+    float: right;
+    height: 250px;
+    margin-left: 200px;
+ }
+

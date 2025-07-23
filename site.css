@@ -1,48 +1,79 @@
+
 * {
     margin: 0;
-    padding: 0;    
-}
-body{
-    background-color:#f6f6e2;
-    font-family: Arial, sans-serif;
-    margin: 0;
     padding: 0;
-}
-header{
-    background-color:#e2d5c1;
+    box-sizing: border-box;
 }
 
-li{
-    font-size: 2rem;
-    display: inline-block;
-    padding: 50px 60px;
-    transition: transform 0.3s ease;
-}
-li:hover {
-    transform: scale(1.2);
+body {
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(135deg, #f4e4cb, #faf1da, #ffffea);
+    color: #fff;
+    padding: 2rem;
+    min-height: 100vh;
 }
 
-h2{
-    text-align: center;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+header {
+    background-color: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(6px);
+    border-radius: 12px;
+    padding: 1rem 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
 }
-h3{
-    text-align: center;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top:20px;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+
+header ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: center;
+    gap: 1.5rem;
 }
-.texto2{
+
+header li {
+    padding: 0.6rem 1rem;
+    background-color: rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-weight: bold;
+    color:#f0823f;
+    
+}
+
+header li:hover {
+    background-color: #f2d694;
+    color: #000;
+    transform: scale(1.05);
+    box-shadow: 0 0 8px #ffffff;
+    
+}
+
+h2 {
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding: 1.5rem;
+    border-left: 6px solid #f0823f;
+    border-radius: 10px;
+    line-height: 1.6;
+    text-shadow: 1px 1px #000;
+    color: #8b8b8b;
+}
+
+.texto2 {
+    font-size: 1.2rem;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border-left: 5px solid #000000;
+    border-radius: 10px;
+    color: #8b8b8b;
+}
+
+h3:last-of-type {
+    font-size: 1.3rem;
     text-align: center;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:20px;
+    margin-top: 2rem;
+    color: #f0823f;
 }
