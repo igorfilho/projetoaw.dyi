@@ -1,8 +1,11 @@
-
-
 body{
     background: linear-gradient(135deg, #ee4a00, #f55000, #fc5500, #ff6d2a);
     background-size: 400% 400%;
+    
+}
+table{
+    padding-right: 100rem;
+    
 }
 
 h1{
@@ -12,6 +15,7 @@ h1{
 }
 
 .texto1{
+    border-radius: 10px;
     text-align: justify;
     font-size: 20px;
     padding: 15px;
@@ -31,4 +35,3 @@ h1{
 .imagem3{
     height: 300px;
 }
-

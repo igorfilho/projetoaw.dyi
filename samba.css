@@ -92,3 +92,19 @@ h6{
     font-size: 30px;
     padding: 20px;
 }
+footer{
+    position: sticky;
+    bottom: 0;
+    background-color: black;
+    min-height: 4vw;
+}
+li{
+    padding: 10px 15px;
+}
+
+a:hover{
+    text-decoration: none;
+    transform: scale(1.05);
+    color: aliceblue;
+    text-decoration: none;
+}
