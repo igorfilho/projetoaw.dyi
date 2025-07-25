@@ -92,12 +92,22 @@ h6{
     font-size: 30px;
     padding: 20px;
 }
-footer{
+
+footer {
     position: sticky;
     bottom: 0;
-    background-color: black;
+    background-color: #000;
     min-height: 4vw;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1vw;
+    font-size: 1vw;
+    z-index: 10;
 }
+
+
 li{
     padding: 10px 15px;
 }
