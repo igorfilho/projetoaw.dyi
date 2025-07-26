@@ -3,7 +3,7 @@
     margin: 0px;
 }
 body{
-        padding: 40px 20px;
+    padding: 40px 10px;
     margin: 10px;
     background-color: azure;
     font-family: Arial, sans-serif;
@@ -20,6 +20,7 @@ h3{
     text-align: justify;
 }
 .img1{
+    padding: 10px;
     height: 400px;
     padding-left: 40px;
 }
@@ -30,5 +31,20 @@ h3{
 .img3{
     padding: 20px 260px;
 }
+div{
+    display: inline-block;
+    text-align: center;
+}
+.img4{
+    padding: 0px 1px;
+    height: 287px;
+}
+h2{
+   font-size: 20px;
+   display: inline; 
+   padding: 5px;
+}
+
+
 
 
