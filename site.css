@@ -28,8 +28,11 @@ header ul {
     justify-content: center;
     gap: 1.5rem;
 }
-
+li{
+    text-decoration: none;
+}
 header li {
+    text-decoration: none;
     padding: 0.6rem 1rem;
     background-color: rgba(255, 255, 255, 0.08);
     border-radius: 8px;
