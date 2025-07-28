@@ -1,60 +1,55 @@
 body {
-    background-color:rgb(160, 189, 103);
+    background-color:rgb(80, 2, 2);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 20px;
 }
 
 h1 {
     text-align: center;
-    color: #2c5e3d;
+    color: #000000;
     margin-bottom: 30px;
 }
 
 h3 {
-    color: #2c5e3d; 
+    color: #000000; 
     text-align: center;
     font-size: larger;
 }
 
 .imagem1{
-    height: 350px;
+    height: 300px;
 }
 
  .imagem2{
-    height: 350px;
+    height: 300px;
     
     
  }
 
   .imagem3{
-    height: 350px;
+    height: 300px;
  }
 
  .textf , .textw {
     width: 100%;
     margin-bottom: 30px;
     border-collapse: collapse;
-    background-color: #448d5c;
-    border: 2px solid #2c5e3d;
+    background-color: #2c0000;
+    border: 2px solid #440000;
 }
 
 .textf , .textw  {
-   padding: 15px;
-   color: #d0e4d8;
-}
+    padding: 15px;
+    color: #d0e4d8;
+ }
 
-th {
-    background-color: #2c5e3d;;
-}
-
-.texto {
-    text-align: center;
-    color: #2c5e3d;
+ th {
+    background-color: #180101;;
 }
 
 header{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: #2c5e3d; 
+    background-color: #180101; 
     text-align: center;
     padding: 25px;
 }
@@ -62,20 +57,33 @@ header{
 a{
     font-size: 25px;
     text-decoration: none;
-    color: #ded0e4;
-}
-.texto1{
-    text-align:justify
+    color: #e4d0d0;
 }
 
-.imagemt {
+.textr {
+    font-size: 20px;
+}
+
+.foto1{
     height: 250px;
 }
 
-.textinho {
-    font-size: 20px;
+.foto2{
+    height: 250px;
 }
 
-.textr{
-    font-size: 20px;
+.foto3{
+    height: 250px;
+}
+
+.foto4{
+    height: 250px;
+}
+
+.foto5{
+    height: 250px;
+}
+
+.foto6{
+    height: 250px;
 }
