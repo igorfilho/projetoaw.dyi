@@ -21,7 +21,7 @@ a{
 }
 
 h1{
-    text-align: center;
+    text-align:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
     padding: 40px 20px;
@@ -29,7 +29,7 @@ h1{
 }
 h3{
     padding: 10px;
-    text-align: justify;
+    text-align: center;
 }
 .img1{
     padding: 10px;
@@ -59,7 +59,6 @@ h2{
 video{
     padding: 10px 300px;
 }
-
 
 
 
