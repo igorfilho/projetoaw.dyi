@@ -15,11 +15,7 @@ h1 {
     margin-bottom: 30px;
 }
 
-h3 {
-    color: #3c096c; 
-    text-align: center;
-    font-size: larger;
-}
+
 
 .textf , .textw {
     width: 100%;
@@ -59,50 +55,51 @@ th {
   }
 
   .imagem4 {
-    height: 250px;
+    height: 245px;
   }
 
    .imagem5 {
-     height: 250px;
+     height: 245px;
    }
 
    .imagem6 {
-      height: 250px;
+      height: 245px;
    }
 
    .imagem7 {
-    height: 250px;
+    height: 245px;
    }
 
    .imagem8 {
-    height: 250px;
+    height: 245px;
    }
 
    .imagem9 {
-    height: 250px;
+    height: 245px;
    }
 
    .imagem10 {
-    height: 250px }
+    height: 245px;
+ }
 
     .imagem11 {
-        height: 250px;
+        height: 245px;
     }
 
     .imagem12 {
-        height: 250px;
+        height: 245px;
     }
      
     .imagem13 {
-        height: 250px;
+        height: 245px;
     }
 
     .imagem14 {
-        height: 250px;
+        height: 245px;
     }
 
     .imagem15 {
-        height: 250px;
+        height: 245px;
     }
 
     
@@ -127,6 +124,10 @@ th {
         color: #ded0e4;
     }
 
-    .textr {
+    video{
+        padding-left: 450px;
+    }
+
+    .two{
         font-size: 20px;
     }
