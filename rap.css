@@ -2,63 +2,155 @@
     padding: 0px;
     margin: 0px;
 }
-body{
-    padding: 0px 0px;
-    margin: 0px;
-    background-color: azure;
-    font-family: Arial, sans-serif;
+ body{
+    background: linear-gradient(135deg, #373739, #19191a, #020202);
+    background-size: 400% 400%;
+ }  
+
+ .imagem1{
+    height: 300px;
+    padding-left: 170px;
+    padding-top: 10px;
+ }
+ 
+ .imagem2{
+    height: 300px;
+    padding-top: 10px;
+ }
+
+ h1{
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 40px;
+ }
+
+ .texto1{
+    font-size: 20px;
+    color: #ffffff;
+    padding: 15px;
+ }
+
+ h2{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+ }
+
+.texto2{
+    font-size: 20px;
+    color: #ffffff;
 }
+
+.imagem3{
+    height: 300px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.imagem4{
+    height: 300px;
+    padding-top: 10px;
+}
+
+.imagem5{
+    height: 300px;
+    padding-top:10px;
+}
+
+h3{
+    text-align: center;
+    font-size: 40px;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.texto3{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.imagem6{
+    height: 300px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+
+.imagem7{
+    height: 300px;
+    margin-top: 10px;
+}
+
+.imagem8{
+    height: 300px;
+    margin-top: 10px;
+}
+
+.imagem9{
+    height: 192px;
+}
+
+.imagem10{
+    height: 192px;
+}
+
+h4{
+    text-align: center;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.texto4{
+    font-size: 20px;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.img11{
+    padding-left: 200px;
+}
+
+h5{
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+}
+
+video{
+    padding-left: 450px;
+    height: 300px;
+}
+
+.um{
+    text-align: center;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.dois{
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 20px;
+}
+
+a:hover{
+    text-decoration: none;
+    transform: scale(1.05);
+    color: aliceblue;
+    text-decoration: none;
+}
+
 header{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: rgb(196, 241, 255);
+    background-color: #000000; 
     text-align: center;
     padding: 25px;
 }
+
 a{
     font-size: 25px;
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: #ded0e4;
 }
-
-h1{
-    text-align:center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 50px;
-    padding: 40px 20px;
-    margin: 10px;
-}
-h3{
-    padding: 10px;
-    text-align: center;
-}
-.img1{
-    padding: 10px;
-    height: 400px;
-    padding-left: 40px;
-}
-.img2{
-    height: 400px;
-    padding-left: 155px;
-}
-.img3{
-    padding: 20px 260px;
-}
-div{
-    display: inline-block;
-    text-align: center;
-}
-.img4{
-    padding: 0px 1px;
-    height: 287px;
-}
-h2{
-   font-size: 20px;
-   display: inline; 
-   padding: 5px;
-}
-video{
-    padding: 10px 300px;
-}
-
-
-

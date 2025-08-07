@@ -16,18 +16,16 @@ h3 {
     font-size: larger;
 }
 
-.imagem1{
-    height: 300px;
+.img1{
+    height: 290px;
 }
 
- .imagem2{
-    height: 300px;
-    
-    
+ .img2{
+    height: 290px;
  }
 
-  .imagem3{
-    height: 300px;
+  .img3{
+    height: 290px;
  }
 
  .textf , .textw {
@@ -65,25 +63,53 @@ a{
 }
 
 .foto1{
-    height: 250px;
+    height: 229px;
 }
 
 .foto2{
-    height: 250px;
+    height: 229px;
 }
 
 .foto3{
-    height: 250px;
+    height: 229px;
 }
 
 .foto4{
-    height: 250px;
+    height: 229px;
 }
 
 .foto5{
-    height: 250px;
+    height: 229px;
 }
 
 .foto6{
-    height: 250px;
+    height: 229px;
+}
+
+video{
+    padding-left: 450px;
+}
+
+.imagem1{
+    height: 229px;
+}
+
+.imagem2{
+    height: 229px;
+}
+
+.imagem3{
+    height: 229px;
+}
+
+.imagem4{
+    height: 229px;
+}
+
+.imagem5{
+    height: 229px;
+}
+
+.imagem6{
+    height: 229px;    
 }

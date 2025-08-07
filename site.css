@@ -4,12 +4,13 @@
     box-sizing: border-box;
 }
 
-body {
+body.site {
     font-family: 'Raleway', sans-serif;
     background: linear-gradient(135deg, #f4e4cb, #faf1da, #ffffea);
     color: #fff;
     padding: 2rem;
     min-height: 100vh;
+    zoom: 130%;
 }
 
 header {
@@ -77,5 +78,25 @@ h3:last-of-type {
     font-size: 1.3rem;
     text-align: center;
     margin-top: 2rem;
+    color: #f0823f;
+}
+
+a:hover{
+    text-decoration: none;
+    transform: scale(1.05);
+    color: #f0823f;
+    text-decoration: none;
+}
+
+/* header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #3c096c; 
+    text-align: center;
+    padding: 25px;
+} */
+
+a{
+    font-size: 25px;
+    text-decoration: none;
     color: #f0823f;
 }

@@ -23,7 +23,7 @@ h1{
 
 h3{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     margin-top: 20px;
 }
 
@@ -68,17 +68,17 @@ h3{
 
 h4{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     padding: 10px;
 }
 
 .texto4{
-    font-size: 20px;
+    font-size: 40px;
     padding: 10px;
 }
 
 h5{
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
 }
 
@@ -87,11 +87,11 @@ h5{
     padding: 10px;
 }
 
-h6{
+/* h6{
     text-align: center;
     font-size: 30px;
     padding: 20px;
-}
+} */
 footer{
     position: sticky;
     bottom: 0;
@@ -120,4 +120,67 @@ a{
     font-size: 25px;
     text-decoration: none;
     color: #000000;
+}
+
+.imagem7{
+    height: 210px;
+    padding-left: 13px;
+}
+
+.imagem8{
+    height: 210px;
+}
+
+.imagem9{
+    height: 210px;
+}
+
+.imagem10{
+    height: 210px;
+}
+
+.imagem11{
+    height: 210px;
+}
+
+.imagem12{
+    height: 210px;
+}
+
+.imagem13{
+    height: 210px;
+}
+
+.two{
+    font-size: 20px;
+    text-align: center;
+}
+
+.img14{
+    height: 210px;
+    padding-left: 20px;
+}
+
+.img15{
+    height: 210px;
+}
+
+.img16{
+    height: 210px;
+}
+
+.img17{
+    height: 210px;
+}
+
+.img18{
+    height: 210px;
+}
+
+.img19{
+    height: 210px;
+}
+
+.img20{
+    height: 210px;
 }
