@@ -13,21 +13,19 @@ h1 {
 h3 {
     color: #2c5e3d; 
     text-align: center;
-    font-size: larger;
+    font-size: 30px;
 }
 
 .imagem1{
-    height: 350px;
+    height: 323px;
 }
 
  .imagem2{
-    height: 350px;
-    
-    
- }
+    height: 323px;
+}
 
   .imagem3{
-    height: 350px;
+    height: 323px;
  }
 
  .textf , .textw {
@@ -69,7 +67,7 @@ a{
 }
 
 .imagemt {
-    height: 250px;
+    height: 241px;
 }
 
 .textinho {
@@ -78,4 +76,50 @@ a{
 
 .textr{
     font-size: 20px;
+}
+
+video{
+    padding-left: 440px;
+}
+
+.imagem4{
+height: 208px;
+}
+
+.imagem5{
+height: 208px;
+}
+
+.imagem6{
+height: 208px;
+}
+
+.imagem7{
+height: 208px;
+}
+
+.imagem8{
+height: 208px;
+}
+
+.imagem9{
+height: 208px;
+}
+
+.imagem10{
+height: 208px;
+}
+
+.textinho{
+    color: #2c5e3d;
+    text-align: center;
+    text-shadow: 2px, 2px, 2px, #000000;
+    font-size: 18px;
+}
+
+h6{
+    color: #2c5e3d;
+    text-align: center;
+    text-shadow: 2px, 2px, 2px, #000000;
+    font-size: 18px;
 }
