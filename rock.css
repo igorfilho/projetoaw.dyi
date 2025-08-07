@@ -17,15 +17,13 @@ h3 {
 }
 
 .img1{
-    height: 290px;
+    height: 302px;
 }
-
  .img2{
-    height: 290px;
+    height: 302px;
  }
-
   .img3{
-    height: 290px;
+    height: 302px;
  }
 
  .textf , .textw {
@@ -60,30 +58,31 @@ a{
 
 .textr {
     font-size: 20px;
+    text-align: center;
 }
 
 .foto1{
-    height: 229px;
+    height: 252px;
 }
 
 .foto2{
-    height: 229px;
+    height: 252px;
 }
 
 .foto3{
-    height: 229px;
+    height: 252px;
 }
 
 .foto4{
-    height: 229px;
+    height: 252px;
 }
 
 .foto5{
-    height: 229px;
+    height: 252px;
 }
 
 .foto6{
-    height: 229px;
+    height: 252px;
 }
 
 video{
@@ -91,25 +90,25 @@ video{
 }
 
 .imagem1{
-    height: 229px;
+    height: 238px;
 }
 
 .imagem2{
-    height: 229px;
+    height: 238px;
 }
 
 .imagem3{
-    height: 229px;
+    height: 238px;
 }
 
 .imagem4{
-    height: 229px;
+    height: 238px;
 }
 
 .imagem5{
-    height: 229px;
+    height: 238px;
 }
 
 .imagem6{
-    height: 229px;    
+    height: 238px;    
 }
