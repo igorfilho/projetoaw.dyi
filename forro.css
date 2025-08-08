@@ -32,14 +32,15 @@ h1{
 }
 
 .imagem3{
-    padding-left: 210px;
-    height: 300px;
+    padding-left: 280px;
+    height: 310px;
     padding-top: 10px;
 }
 
 .imagem4{
     height: 300px;
     padding-top: 10px;
+    padding-left: 300px;
 }
 
 h2{
@@ -58,7 +59,7 @@ h2{
 }
 
 .imagem5{
-    padding-left: 200px;
+    padding-left: 255px;
     height: 300px;
     padding-top: 10px;
 }
@@ -66,10 +67,12 @@ h2{
 .imagem6{
     height: 300px;
     padding-top: 10px;
+    padding-left: 280px;
 }
 
 .texto4{
     font-size: 20px;
+    margin: 30px;
 }
 
 h3{
@@ -83,7 +86,7 @@ h3{
 }
 
 img{
-    padding-left: 15px;
+    margin-left: 32px;
     padding: 10px;
 }
 
@@ -98,7 +101,7 @@ h4{
 }
 
 .imagemZ{
-    padding-left: 40px;
+    margin-left: 120px;
 }
 
 h5{
@@ -133,5 +136,5 @@ a{
 }
 
 video{
-    padding-left: 460px;
+    padding-left: 650px;
 }
